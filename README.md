@@ -18,11 +18,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Juan Garcia">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1tic8sv4o1lnljhs7dl9xvofm)
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1tic8sv4o1lnljhs7dl9xvofm)
 
 ###
 
