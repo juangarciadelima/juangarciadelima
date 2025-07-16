@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Juan Garcia">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Juan%20Garcia&count=5&unique=true" alt="Spotify recently played"  />
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1tic8sv4o1lnljhs7dl9xvofm)
   </a>
 </div>
 
