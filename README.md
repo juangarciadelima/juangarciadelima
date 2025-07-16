@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Apaixonado em programação, estudo programação desde os 15 anos.<br><br>Vivendo no mundo do frontend, me aventuro no **React**, **Node**, **Typescript**, entre outras ferramentas.<br><br>Também gosto de jogar e ouvir música nas horas vagas, fique a vontade!</p>
+<p align="left">Apaixonado em programação, estudo programação desde os 15 anos.<br><br>Vivendo no mundo do frontend, me aventuro no <strong>React</strong>, <strong>Node</strong>, <strong>Typescript</strong>, entre outras ferramentas.<br><br>Também gosto de jogar e ouvir música nas horas vagas, fique a vontade!</p>
 
 ###
 
