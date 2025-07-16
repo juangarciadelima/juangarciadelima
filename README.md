@@ -4,15 +4,18 @@
 
 <h3 align="left">My name is Juan :p !</h3>
 
-###
 
-<p align="left"></p>
 
-###
+---
+
 
 <img src="https://raw.githubusercontent.com/juangarciadelima/juangarciadelima/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+---
 
 <p align="left">Apaixonado em programação, estudo programação desde os 15 anos.<br><br>Vivendo no mundo do frontend, me aventuro no <strong>React</strong>, <strong>Node</strong>, <strong>Typescript</strong>, entre outras ferramentas.<br><br>Também gosto de jogar e ouvir música nas horas vagas, fique a vontade!</p>
 
@@ -22,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juangarciadelima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
@@ -52,9 +55,8 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1tic8sv4o1lnljhs7dl9xvofm)
 
-###
-
-<p align="left">Se quiser entrar em contato, segue o Linkedin:</p>
+---
+<h3 align="left">Se quiser entrar em contato, segue o Linkedin:</h3>
 
 ###
 
