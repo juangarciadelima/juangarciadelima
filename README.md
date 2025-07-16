@@ -18,20 +18,17 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1tic8sv4o1lnljhs7dl9xvofm)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=juangarciadelima&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juangarciadelima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=babel" height="40" alt="babel logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -41,8 +38,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
@@ -50,15 +45,17 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU2d253bjk0aWF2dWU1aWdvdWxxZzIzNWh6NWh0Njhnb2xqNDlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTuvku74NSGnC/giphy.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=juangarciadelima.juangarciadelima&"  />
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1tic8sv4o1lnljhs7dl9xvofm)
+
+###
+
+<p align="left">Se quiser entrar em contato, segue o Linkedin:</p>
 
 ###
 
@@ -66,6 +63,12 @@
   <a href="https://www.linkedin.com/in/juan-lima-a59016212/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=juangarciadelima.juangarciadelima&"  />
 </div>
 
 ###
